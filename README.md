@@ -229,7 +229,7 @@ sparkles addnodes LAST 2
 
 ## Cleaning up
 
-Kubeque remembers jobs until you explicitly remove them.   To remove all non-running jobs:
+sparkles remembers jobs until you explicitly remove them.   To remove all non-running jobs:
 
 ```
 sparkles clean
